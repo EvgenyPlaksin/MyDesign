@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDesign</string>
+
+    <string name="company_share1">AAPL</string>
+    <string name="company_name1">Apple, Inc.</string>
+
+    <string name="company_share2">TSLA</string>
+    <string name="company_name2">Tesla, Inc.</string>
+
+    <string name="company_share3">AMZN</string>
+    <string name="company_name3">Amazon, Inc.</string>
+
+</resources>

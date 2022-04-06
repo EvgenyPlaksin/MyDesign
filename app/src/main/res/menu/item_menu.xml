@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/menu_item1"
+        android:title="Категории"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/menu_item2"
+        android:title="История"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/menu_item3"
+        android:title="Cвечи"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/item4"
+        android:icon="@drawable/menu_item4"
+        android:title="Сообщения"
+        android:enabled="true"/>
+
+</menu>
